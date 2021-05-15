@@ -1,0 +1,8 @@
+c:\users\shiplu khandakar\documents\visual studio 2010\Projects\Hospital 1\Hospital 1\bin\Debug\Hospital 1.exe
+c:\users\shiplu khandakar\documents\visual studio 2010\Projects\Hospital 1\Hospital 1\bin\Debug\Hospital 1.pdb
+c:\users\shiplu khandakar\documents\visual studio 2010\Projects\Hospital 1\Hospital 1\obj\x86\Debug\Hospital_1.Properties.Resources.resources
+c:\users\shiplu khandakar\documents\visual studio 2010\Projects\Hospital 1\Hospital 1\obj\x86\Debug\Hospital 1.csproj.GenerateResource.Cache
+c:\users\shiplu khandakar\documents\visual studio 2010\Projects\Hospital 1\Hospital 1\obj\x86\Debug\Hospital 1.exe
+c:\users\shiplu khandakar\documents\visual studio 2010\Projects\Hospital 1\Hospital 1\obj\x86\Debug\Hospital 1.pdb
+c:\users\shiplu khandakar\documents\visual studio 2010\Projects\Hospital 1\Hospital 1\obj\x86\Debug\Hospital_1.main.resources
+C:\Users\shiplu khandakar\Documents\Visual Studio 2010\Projects\Hospital 1\Hospital 1\obj\x86\Debug\Hospital_1.staff.resources
